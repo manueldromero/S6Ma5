@@ -56,7 +56,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1781623427762</value>
+    <value>1781624565188</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -76,7 +76,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_addMathJax</key>
-    <value>false</value>
+    <value>true</value>
   </odeProperty>
   <odeProperty>
     <key>exportSource</key>
